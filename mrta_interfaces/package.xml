@@ -1,0 +1,10 @@
+<package format="3">
+  <name>mrta_interfaces</name>
+  <version>0.1.0</version>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>geometry_msgs</depend>
+  <depend>builtin_interfaces</depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

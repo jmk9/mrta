@@ -1,0 +1,7 @@
+string robot_id
+string station_id
+---
+bool ok
+geometry_msgs/PoseStamped pre_dock
+geometry_msgs/PoseStamped dock
+float32 eta_sec
