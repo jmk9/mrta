@@ -1,0 +1,4 @@
+stations:
+  - id: station_0
+    pose: [0.0, 0.0, 0.0]   # 예시
+    capacity: 1
